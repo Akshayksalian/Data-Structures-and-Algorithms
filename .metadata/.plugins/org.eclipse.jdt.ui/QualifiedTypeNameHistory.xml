@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.security.SecureRandom"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="oops.dogs"/>
+    <fullyQualifiedTypeName name="oops.statics.First.Second"/>
+    <fullyQualifiedTypeName name="oops.statics.First"/>
+    <fullyQualifiedTypeName name="oops.statics.First.Third"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="sun.awt.geom.AreaOp.AddOp"/>
+    <fullyQualifiedTypeName name="linked_list.My_linked_list"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="linked_list.My_linked_list.Node"/>
+    <fullyQualifiedTypeName name="java.util.PriorityQueue"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+</qualifiedTypeNameHistroy>

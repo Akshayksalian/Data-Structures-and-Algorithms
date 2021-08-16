@@ -1,0 +1,21 @@
+
+// FInd the only non repeating element , where every element repeats twice
+
+package bitManuplation;
+
+public class OneUniqueelement {
+	
+	public static void main(String [] args) {
+		
+		int a[]= {5,4,2,4,3,5,1};
+		int n=a.length;
+		int res=0;
+		
+		for(int x:a) {
+			res=res^x;
+		}
+		
+		System.out.println(res);
+	}
+
+}

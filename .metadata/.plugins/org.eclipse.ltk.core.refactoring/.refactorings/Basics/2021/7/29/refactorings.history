@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;string&apos; to &apos;Data_Structure/src&apos;&#x0D;&#x0A;- Original project: &apos;Basics&apos;&#x0D;&#x0A;- Destination element: &apos;Data_Structure/src&apos;&#x0D;&#x0A;- Original element: &apos;Basics/src/string&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=Data_Structure/src" element1="/src&lt;string" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1626167140486" version="1.0"/>
+</session>
